@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">PomoDoIt</string>
+
+    <string name="phase_label_work">Work</string>
+    <string name="phase_label_shortbreak">Break</string>
+    <string name="phase_label_longbreak">Long Break</string>
+    <string name="timer_default">25:00</string>
+
+    <string name="donelist_question_future">What are you working on?</string>
+    <string name="donelist_question_past">What did you just work on?</string>
+    <string name="donelist_textentry_default">That one cool project</string>
+
+    <string name="button_timer_start">Start</string>
+    <string name="button_timer_pause">Pause</string>
+    <string name="button_timer_resume">Resume</string>
+
+    <string name="button_donelist">Done List</string>
 </resources>
